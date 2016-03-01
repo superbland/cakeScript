@@ -1,0 +1,2 @@
+# cakeScript
+For democratic cake
